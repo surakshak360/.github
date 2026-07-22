@@ -3,7 +3,7 @@
 > **Unified AI Public Safety & Multi-Modal Intelligence Fusion Platform**  
 > *Combating Digital Arrest Scams, Deepfake Extortion, Counterfeit Currency, and Fraud Networks across India.*
 
-![Our Logo](https://github.com/surakshak360/.github/cover.png)
+![Our Logo](cover.png)
 ---
 
 ## 📌 Executive Summary
