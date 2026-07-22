@@ -124,16 +124,22 @@ Visit **`http://localhost:3000`** in your browser.
 
 For deep dives into codebase architecture and repo decomposition, see:
 
-- 🏛️ **[ARCHITECTURE.md](ARCHITECTURE.md)**: Deep dive into system architecture, data pipelines, graph schemas, and fusion formulas.
-- 📁 **[ORGANIZATION.md](ORGANIZATION.md)**: Detailed breakdown of repository structure, microservices responsibility matrix, and inter-service APIs.
+- 🏛️ **[ARCHITECTURE.md](https://github.com/surakshak360/docs/blob/main/ARCHITECTURE.md)**: Deep dive into system architecture, data pipelines, graph schemas, and fusion formulas.
+- 📁 **[ORGANIZATION.md](https://github.com/surakshak360/docs/blob/main/ORGANIZATION.md)**: Detailed breakdown of repository structure, microservices responsibility matrix, and inter-service APIs.
 
 ---
 
 ## 🤝 Contributor & Project Details
 
-- **Project Lead & Core Architects**: Surakshak360 Engineering Team
+- **Project Team**: Surakshak360 Engineering Team
 - **Repository**: [github.com/Surakshak360/surakshak360](https://github.com/Surakshak360/surakshak360)
 - **License**: MIT License
+
+Members and their contributions:
+- **[Madhumita S](https://github.com/Madhumita-05)**: Frontend, Intelligent Feature Fusion and Spatial Mapping
+- **[Shobhana S](https://github.com/Shobhanashankar)**: Audio spectral analysis layer and Vision-based counterfeit detection
+- **[Sriram S V](https://github.com/IamRasengan)**: Backend development and Data layer formation
+- **[Gautham R](https://github.com/gautham-here)**: Integration, cloud deployment and testing
 
 ---
 *Built for digital public safety, intelligence fusion, and crime prevention.*
