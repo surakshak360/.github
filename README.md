@@ -132,7 +132,7 @@ For deep dives into codebase architecture and repo decomposition, see:
 ## 🤝 Contributor & Project Details
 
 - **Project Team**: Surakshak360 Engineering Team
-- **Repository**: [github.com/Surakshak360/surakshak360](https://github.com/Surakshak360/surakshak360)
+- **Repository**: [github.com/surakshak360](https://github.com/surakshak360)
 - **License**: MIT License
 
 Members and their contributions:
